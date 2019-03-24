@@ -24,6 +24,11 @@ public class TestUni {
     System.out.println(y + " divise par 0 = " +z);
     y=15;
     System.out.println(y + " divise par 0 = "+ z);
+    int b=2,h=4;
+    float d=2.5f;
+    System.out.println(b*d+h);
+
+
     }
     }
 
